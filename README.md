@@ -1,7 +1,7 @@
 ## Présentation du projet
 ***
 
-Test de mini application avec affichage d'une liste de publication récupérées depuis une API 
+Test de mini application en React / Typescript avec affichage d'une liste de publication récupérées depuis une API 
 externe (avec barre de filtre pour choisir le nombre à afficher) et affichage détaillée d'une 
 publication.
 
