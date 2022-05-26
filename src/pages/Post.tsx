@@ -2,6 +2,7 @@ import {useParams} from "react-router-dom";
 import {useEffect, useState} from "react";
 import {PostData} from "../interfaces";
 import PostDetail from "../components/PostDetail";
+import './post.css';
 
 const Post = () => {
 
